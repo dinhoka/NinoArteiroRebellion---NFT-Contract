@@ -1,2 +1,2 @@
-# NinoArteiroRebellion---NFT-Contract
-Contract code (NFT) of Nino Arteiro
+# Pancakeswap---NFT-Contract
+Contract code (NFT) of pancake squad
